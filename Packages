@@ -3,8 +3,8 @@ Name: KidsAuto Pro v10
 Version: 10.8.18
 Architecture: iphoneos-arm
 Description: KidsAuto Pro ver 10 Update 16/08/2021, Hỗ trợ từ iOS 11 -> 12.2 (JB Unc0ver v4.3.1) && 12.3 - 14.x (JB Checkra1n)
-Author: Developer by KidsAuto Team <https://www.facebook.com/kidsauto91>
-Maintainer: Developer by KidsAuto Team <https://www.facebook.com/kidsauto91>
+Author: KidsAuto Pro - Phúc Thái
+Maintainer: Developer by KidsAuto Team
 Section: System
 Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
 Depends: preferenceloader, com.conradkramer.open, com.rpetrich.rocketbootstrap, zip, unzip, openssh, rsync, jetslammed, socat, sudo, ws.hbang.repower, com.cydiageek.coysim, applist, com.kidsautopro.kidsautosetting, com.kidsautopro.kidssupport
@@ -18,8 +18,8 @@ Name: KidsAuto Pro v10
 Version: 10.8.21
 Architecture: iphoneos-arm
 Description: KidsAuto Pro ver 10 Update 21/08/2021, Hỗ trợ từ iOS 11 -> 12.2 (JB Unc0ver v4.3.1) && 12.3 - 14.x (JB Checkra1n)
-Author: Developer by KidsAuto Team <https://www.facebook.com/kidsauto91>
-Maintainer: Developer by KidsAuto Team <https://www.facebook.com/kidsauto91>
+Author: KidsAuto Pro - Phúc Thái
+Maintainer: Developer by KidsAuto Team
 Section: System
 Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
 Depends: com.kidsautopro.kidsautosetting
@@ -33,7 +33,7 @@ Name: KidsAuto Pro v10
 Version: 10.9.11
 Architecture: iphoneos-arm
 Description: KidsAuto Pro iOS, Support from version 10.x - 14.x
-Author: KidsAuto Pro - Cường Trần <https://www.facebook.com/groups/1356112074493442/>
+Author: KidsAuto Pro - Phúc Thái
 Maintainer: KidsAuto Pro Teams
 Section: Tweaks
 Tag: role::hacker
@@ -47,7 +47,7 @@ Name: KidsAuto Pro v10
 Version: 10.9.17
 Architecture: iphoneos-arm
 Description: KidsAuto Pro iOS, Support from version 10.x - 14.x
-Author: KidsAuto Pro - Cường Trần <https://www.facebook.com/groups/1356112074493442/>
+Author: KidsAuto Pro - Phúc Thái
 Maintainer: KidsAuto Pro Teams
 Section: Tweaks
 Tag: role::hacker
@@ -61,7 +61,7 @@ Name: KidsAuto Pro v10
 Version: 10.9.20
 Architecture: iphoneos-arm
 Description: KidsAuto Pro iOS, Support from version 10.x - 14.x
-Author: KidsAuto Pro - Cường Trần <https://www.facebook.com/groups/1356112074493442/>
+Author: KidsAuto Pro - Phúc Thái
 Maintainer: KidsAuto Pro Teams
 Section: Tweaks
 Tag: role::hacker
@@ -75,7 +75,7 @@ Name: KidsAuto Pro v10
 Version: 10.11.10-2
 Architecture: iphoneos-arm
 Description: KidsAuto Pro iOS, Support from version 10.x - 14.8.x
-Author: KidsAuto Pro - Cường Trần <https://www.facebook.com/groups/1356112074493442/>
+Author: KidsAuto Pro - Phúc Thái
 Maintainer: KidsAuto Pro Teams
 Section: Tweaks
 Tag: role::hacker
@@ -89,7 +89,7 @@ Name: KidsAuto Pro v10
 Version: 10.11.11
 Architecture: iphoneos-arm
 Description: KidsAuto Pro iOS, Support from version 10.x - 14.8.x
-Author: KidsAuto Pro - Cường Trần <https://www.facebook.com/groups/1356112074493442/>
+Author: KidsAuto Pro - Phúc Thái
 Maintainer: KidsAuto Pro Teams
 Section: Tweaks
 Tag: role::hacker
@@ -103,7 +103,7 @@ Name: KidsAuto Pro v10
 Version: 10.22.3~06
 Architecture: iphoneos-arm
 Description: KidsAuto Pro iOS, Support from version 10.x - 14.8.x
-Author: KidsAuto Pro - Cường Trần <https://www.facebook.com/groups/1356112074493442/>
+Author: KidsAuto Pro - Phúc Thái
 Maintainer: KidsAuto Pro Teams
 Section: Tweaks
 Tag: role::hacker
@@ -117,7 +117,7 @@ Name: KidsAuto Pro v10
 Version: 10.22.4~11
 Architecture: iphoneos-arm
 Description: KidsAuto Pro iOS, Support from version 10.x - 14.8.x
-Author: KidsAuto Pro - Cường Trần <https://www.facebook.com/groups/1356112074493442/>
+Author: KidsAuto Pro - Phúc Thái
 Maintainer: KidsAuto Pro Teams
 Section: Tweaks
 Tag: role::hacker
@@ -131,7 +131,7 @@ Name: KidsAuto Pro v10
 Version: 10.22.4~26
 Architecture: iphoneos-arm
 Description: KidsAuto Pro iOS, Support from version 10.x - 14.8.x
-Author: KidsAuto Pro - Cường Trần <https://www.facebook.com/groups/1356112074493442/>
+Author: KidsAuto Pro - Phúc Thái
 Maintainer: KidsAuto Pro Teams
 Section: Tweaks
 Tag: role::hacker
@@ -145,7 +145,7 @@ Name: KidsAuto Pro v10
 Version: 10.22.5~29
 Architecture: iphoneos-arm
 Description: KidsAuto Pro iOS, Support from version 10.x - 14.8.x
-Author: KidsAuto Pro - Cường Trần <https://www.facebook.com/groups/1356112074493442/>
+Author: KidsAuto Pro - Phúc Thái
 Maintainer: KidsAuto Pro Teams
 Section: Tweaks
 Tag: role::hacker
@@ -160,7 +160,7 @@ Version: 1.11-10-2
 Architecture: iphoneos-arm
 Description: Utilities to support KidsAuto Pro!!!
 Maintainer: KidsAuto Teams
-Author: KidsAuto Pro - Cường Trần <https://www.facebook.com/kidsauto91>
+Author: KidsAuto Pro - Phúc Thái
 Section: Utilities
 Icon: file:///Applications/kidsauto.app/AppIcon.png
 Depiction: http://kidsauto.github.io/pro
@@ -173,7 +173,7 @@ Name: KidsAuto Settings
 Version: 1.6.23
 Architecture: iphoneos-arm
 Description: Utilities to support KidsAuto Pro, Fixed SSL to Bugs App!!!
-Author: KidsAuto Pro - CườngTrần <https://www.facebook.com/kidsauto91>
+Author: KidsAuto Pro - Phúc Thái
 Maintainer: Dev by KidsAuto Teams
 Section: Tweaks
 Depends: mobilesubstrate, ws.hbang.common, preferenceloader, com.conradkramer.open, com.rpetrich.rocketbootstrap, zip, unzip, openssh, rsync, jetslammed, socat, sudo, ws.hbang.repower, com.cydiageek.coysim, applist, com.kidsautopro.kidssupport
@@ -187,7 +187,7 @@ Name: KidsAuto Addon
 Version: 1.0-3
 Architecture: iphoneos-arm
 Description: Chặn phát hiện Fake Proxy!!!
-Author: KidsAuto Pro - Cường Trần <https://www.facebook.com/kidsauto91>
+Author: KidsAuto Pro - Phúc Thái
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: ./Debs/KidsAddon.deb
